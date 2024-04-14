@@ -4,14 +4,13 @@ Welcome to my project where I've built a modern real estate application using Re
 
 ## Technologies Used:
 - **React:** A JavaScript library for building user interfaces.
-- **Additional libraries and frameworks:** Include any additional libraries or frameworks you used in your project.
+- **Additional libraries and frameworks:** 
 - **RapidAPI:**
 
 ## Features:
 - **Property Listings:** Browse through a comprehensive list of real estate properties.
 - **Property Search:** Search for properties based on location, price, size, etc.
 - **Connect Buyers and Sellers:** Facilitate communication between buyers and sellers through the application.
-- **User Authentication:** Implement user authentication to allow users to create accounts and log in securely.
 - **Responsive Design:** Ensure the application is accessible and functional across different devices.
 
 ## Getting Started:
