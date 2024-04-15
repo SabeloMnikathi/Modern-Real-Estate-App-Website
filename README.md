@@ -6,6 +6,7 @@ Welcome to my project where I've built a modern real estate application using Re
 - **React:** A JavaScript library for building user interfaces.
 - **Additional libraries and frameworks:** 
 - **RapidAPI:**
+- **Next JS**
 
 ## Features:
 - **Property Listings:** Browse through a comprehensive list of real estate properties.
